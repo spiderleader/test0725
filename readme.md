@@ -13,6 +13,9 @@ git add ./readme.md
 
 git commit -m "今天学习git，测试用，没什么实际意义"
 
+:q! 强制退出
+
+
 
 
 
