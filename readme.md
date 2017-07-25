@@ -19,6 +19,8 @@ git commit -m "今天学习git，测试用，没什么实际意义"
 
 工作区 暂存区 版本库
 
+git status
+
 
 
 
